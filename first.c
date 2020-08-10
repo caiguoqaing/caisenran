@@ -1,5 +1,5 @@
-include<studio>
+include <studio>
 main():
 {
-printf"hhhaha"
+printf"hello"
 }
